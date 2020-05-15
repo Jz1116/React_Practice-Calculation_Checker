@@ -1,4 +1,4 @@
-### Instructions
+# Instructions
 
 You're given a starter template with dummy data.
 
