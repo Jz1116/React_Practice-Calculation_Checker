@@ -15,3 +15,14 @@ object is created. The render method gets called automatically every time the st
 inside of the component and anytime the value of the component's props changes.
 
 This exercise will help you practice "managing state" in React.
+
+## Start the Project
+1. start a terminal (cd to this directory)
+2. run `npm install`
+3. run `npm start`
+
+## Solution
+My solution is within the `src` file. It includes:
+1. App.js
+2. Calculator.js
+3. DisplayScore.js
